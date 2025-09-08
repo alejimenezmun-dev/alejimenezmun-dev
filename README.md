@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Turning-coffe-into-code.png" alt="Alejimenezmun- dev Banner" />
+</p>
+
 # 👋 Hi there! I'm Ale 💻✨  
 
 I'm an aspiring *Frontend Developer* 🚀 passionate about learning new things every day.  
