@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Turning coffe into code.png" alt="Alejimenezmundev Banner" />
+  <img src="Turning coffee into code.png" alt="Alejimenezmundev Banner" />
 </p>
 
 # 👋 Hi there! I'm Ale 💻✨  
