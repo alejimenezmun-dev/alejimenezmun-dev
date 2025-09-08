@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Ale 💻✨  
 
-<!--
-**alejimenezmun-dev/alejimenezmun-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring *Frontend Developer* 🚀 passionate about learning new things every day.  
+Currently working on the *Front-End Developer Professional Certificate (Coursera)* and practicing *HTML, CSS, and JavaScript*.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+•⁠  ⁠🧩 *HTML & CSS* → FreeCodeCamp + Coursera  
+•⁠  ⁠⚡ *JavaScript Basics* → in progress right now!  
+
+---
+
+### 📂 My Projects
+•⁠  ⁠🌐 [My First Project on GitHub Pages](https://alejimenezmun-dev.github.io/html-test/)
+
+---
+
+### 📫 Connect with Me
+•⁠  ⁠💼 [LinkedIn](https://www.linkedin.com/in/alejimenezmun/)
+
+---
+
+✨ This profile will keep growing as I advance in my journey to become a Frontend Developer. ✨
